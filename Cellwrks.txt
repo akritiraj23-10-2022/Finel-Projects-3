@@ -1,0 +1,13 @@
+Radio Design Group - How It Works:  Cellular Phones!
+
+How It Works! Index Page
+Cellular Phone Design Services
+
+How It Works:  Cellular Phones!
+
+There are two basic types of cellular phones:  analog and digital.  By far, the phone that
+most people (at least in the US) have been exposed to is the analog cellular phone.  However, the digital phone is growing in terms of numbers in service, and any discussion of how cellular phones work would not be complete without covering all the bases.
+
+Before we talk about how cellular phones work in general, let's talk about the difference between the types of cellular phones.  We'll cover the main types, and then move on to how the cellular system works in general.  This page is intended as a general overview, so we'll try not to get too technical here.
+
+Return to Radio Design Group's Home Page

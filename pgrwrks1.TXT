@@ -1,0 +1,10 @@
+ How It Works! Index Page
+ Pager Design Services
+
+How It Works:  Pagers.
+
+Pagers... those ubiquitous &quot;beepers&quot; that always seem to be going off during meetings.  Ever wonder how they can make them so small?  How do they run for so long on just a penlight cell, when everything else needs big batteries that have to be recharged every night?
+
+The pager's secret is that inside that little case is a simple, yet sophisticated receiver.  With the exception of two-way pagers (more on that later), pagers don't have a transmitter.  Since it is the transmitter that consumes the lion's share of battery power in portable communications devices, pagers have a real edge when it comes to saving batteries.  No transmitter also means that the pager can be made smaller than other communications devices too.
+
+Return to Radio Design Group's Home Page

@@ -1,0 +1,2 @@
+1.FRAME Src ="welleft.htm"
+2.FRAME Src ="welright.htm"
